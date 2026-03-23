@@ -7,3 +7,4 @@ CAMBIADO POR EL MASTER
 CAMBIADO EN DESARROLLO
 cambio hecho desde github
 otro cambio desde github
+cambios desde local
